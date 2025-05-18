@@ -24,7 +24,7 @@ A modern, responsive dashboard for monitoring factory production data, built wit
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Tarunkumar314/smart-factory-dashboard
 ```
 
 2. Install dependencies:
@@ -55,7 +55,7 @@ src/
 
 ## Deployment
 
-This project is deployed on Vercel. Visit [your-vercel-url] to see it in action.
+This project is deployed on Vercel. Visit https://smart-factory-dashboard-six.vercel.app/ to see it in action.
 
 ## License
 
