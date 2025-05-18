@@ -1,0 +1,13 @@
+{
+  "pageTitle": "Production Monitoring",
+  "machineName": "Machine Name",
+  "dateRange": "Date Range",
+  "dailyProductionCount": "Daily Production Count",
+  "machineNameHeader": "Machine Name",
+  "statusHeader": "Status",
+  "outputHeader": "Output",
+  "lastUpdatedHeader": "Last Updated",
+  "filter": "Filter",
+  "filterData": "Filter Data",
+  "productionData": "Production Data"
+} 

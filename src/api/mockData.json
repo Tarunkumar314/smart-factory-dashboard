@@ -1,0 +1,16 @@
+{
+  "productionData": [
+    { "day": "Mon", "count": 30 },
+    { "day": "Tue", "count": 40 },
+    { "day": "Wed", "count": 35 },
+    { "day": "Thu", "count": 50 },
+    { "day": "Fri", "count": 49 },
+    { "day": "Sat", "count": 60 },
+    { "day": "Sun", "count": 70 }
+  ],
+  "machines": [
+    { "machineName": "Machine A", "status": "Running", "output": 100, "lastUpdated": "2023-10-01" },
+    { "machineName": "Machine B", "status": "Idle", "output": 0, "lastUpdated": "2023-10-01" },
+    { "machineName": "Machine C", "status": "Running", "output": 150, "lastUpdated": "2023-10-01" }
+  ]
+} 

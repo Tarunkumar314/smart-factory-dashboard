@@ -1,0 +1,13 @@
+{
+  "pageTitle": "생산 모니터링",
+  "machineName": "기계 이름",
+  "dateRange": "날짜 범위",
+  "dailyProductionCount": "일일 생산량",
+  "machineNameHeader": "기계 이름",
+  "statusHeader": "상태",
+  "outputHeader": "출력",
+  "lastUpdatedHeader": "마지막 업데이트",
+  "filter": "필터",
+  "filterData": "데이터 필터링",
+  "productionData": "생산 데이터"
+} 
